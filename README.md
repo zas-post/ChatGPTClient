@@ -53,7 +53,7 @@
 <hr>
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&vCenter=true&width=435&lines=Code+status%3A" alt="Typing SVG" />
+<a href="https://github.com/zas-post/ChatGPTClient"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&vCenter=true&width=435&lines=Code+status%3A" alt="Typing SVG" />
 </div>
 
 
