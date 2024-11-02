@@ -53,7 +53,7 @@
 <hr>
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&vCenter=true&width=435&lines=Code+status%3A" alt="Typing SVG" /></a><img alt="Crates.io Total Downloads" src="https://img.shields.io/crates/d/rustc-serialize?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fzas-post%2FChatGPTClient.git">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&vCenter=true&width=435&lines=Code+status%3A" alt="Typing SVG" />
 </div>
 
 
