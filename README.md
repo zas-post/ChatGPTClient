@@ -7,7 +7,7 @@
 <body>
 
 <h1 align="center">
-    <img src="assets/icons-chatgpt.png" alt="icons-chatgpt.png" />
+    <img src="assets/icons-chatgpt.png" alt="icons-chatgpt.png" width="100" />
     ChatGPT Client!
 </h1>
 
