@@ -6,15 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">
-    <img src="assets/icons-chatgpt.png" alt="icons-chatgpt.png" width="100" />
-    ChatGPT Client!
-</h1>
-
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/zas-post/ChatGPTClient/main/assets/icons-chatgpt.png" alt="ChatGPT Icon" width="100" />
-    ChatGPT Client!
-</h1>
+<h1 align="center">ChatGPT Client! 🤖💬</h1>
 
 <p>&emsp;<b>ChatGPT Client</b> - это простое настольное приложение, разработанное с использованием PyQt5, предназначенное для взаимодействия с API различных моделей нейросетей. Приложение позволяет пользователям отправлять текстовые запросы к моделям и получать сгенерированные ответы.</p>
 
