@@ -10,7 +10,7 @@
 
 <p>&emsp;<b>ChatGPT Client</b> - это простое настольное приложение, разработанное с использованием PyQt5, предназначенное для взаимодействия с API различных моделей нейросетей. Приложение позволяет пользователям отправлять текстовые запросы к моделям и получать сгенерированные ответы.</p>
 
-<img align="center" src="assets/gui_chatgpt.png" alt="gui_chatgpt.png"/>
+<img src="assets/gui_chatgpt.png" align="center" alt="gui_chatgpt.png"/>
 
 <h2>Установка и настройка</h2>
 <ol>
